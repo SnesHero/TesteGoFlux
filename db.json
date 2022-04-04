@@ -1,0 +1,38 @@
+{
+  "offers": [
+    {
+      "lance": [
+        "",
+        "Camila 200"
+      ],
+      "id": 1
+    },
+    {
+      "coleta": "Depósito",
+      "entrega": "Juá",
+      "produto": "Ferro",
+      "quantidade": "999",
+      "lance": [
+        "Bino: 100 real",
+        "Camila: 200",
+        "zezinho 300",
+        "Bruno 4000"
+      ],
+      "id": 2
+    },
+    {
+      "coleta": "Brasil",
+      "entrega": "Minha rua",
+      "produto": "Bananas",
+      "quantidade": "300",
+      "lance": [
+        "",
+        "Lukinhas 420"
+      ],
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
