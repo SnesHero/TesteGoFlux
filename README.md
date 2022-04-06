@@ -1,3 +1,30 @@
+# Projeto em andamento baseado nas instruções do teste.
+
+Algumas melhorias a caminho:
+
+- Confirmar escolhar do lance (como embarcadora);
+- Ajustes de formatação;
+- Atribuição de nome da empresa para cada login;
+- Feedback visual de cada escolha (um feedback de teste ocorre pelo console).
+
+# Informações úteis:
+
+A aplicação possui botões para teste de cada modalidade de login abaixo dos formulários, mas é possível usar o a função de login padrão. As credenciais de teste são:
+
+Administradora: 
+login: admin@embarcadora.com
+senha: 123456
+
+Embarcadora:
+login: admin@embarcadora.com
+senha:123456
+
+# Back-end:
+
+Para que o banco de dados de ofertas e lances funcione, dê o seguinte comando no terminal após as configurações iniciais de react:
+
+### `npx json-server --watch db.json --port 8001`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
